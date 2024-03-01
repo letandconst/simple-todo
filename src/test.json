@@ -1,0 +1,23 @@
+[
+	{
+		"id": "2ae5fb07-9f77-4545-a1af-0c265508f77d",
+		"username": "John Doe",
+		"password": "123456",
+		"todos": [
+			{
+				"todo": "wash the dishes",
+				"comments": [
+					{ "text": "clean the toilet after", "time": "2024-02-29T14:09:27.963Z" },
+					{ "text": "check also the shower room", "time": "2024-02-29T14:11:58.010Z" }
+				]
+			},
+			{
+				"todo": "Do the laundry",
+				"comments": [
+					{ "text": "Do the white clothes first", "time": "2024-02-29T14:23:33.376Z" },
+					{ "text": "Please wash also the new blankets", "time": "2024-02-29T14:26:14.207Z" }
+				]
+			}
+		]
+	}
+]
