@@ -10,10 +10,11 @@ This is a simple todo list application created using React + Typescript + Vite.
 
 ## Installation
 
-To setup the project, locate to the directory first then install the dependencies.
+To setup the project, clone the repository first.
+Then go to the directory and install the dependencies.
 
 ```bash
-cd to-do-app
+cd simple-todo
 npm install
 ```
 
